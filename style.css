@@ -4,11 +4,11 @@ body {
     min-height: 100vh;
     width: 100%;
 }
-
-align_items: center;
+main {
+align-items: center;
 display:flex; 
 height: 100vh;
-justify_content: center;
+justify-content: center;
 position: relative; 
 }
 
